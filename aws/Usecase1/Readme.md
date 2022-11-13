@@ -4,7 +4,6 @@
 
 In our Daily life we are ordering food/grocery items/ clothes on an online platform  . We will order the items in the support platform with zomato, big basket or some different app  . Once we order a pallrell notification will be delivered to the merchant and order platform. Then they will consider the orders and will process further, How the notification happens and how they will  maintain the database . We will discuss this use case . 
 
-
 # Architecture
 
 ![Watch the image](/aws/Usecase1/usecase-1.png)
@@ -15,7 +14,6 @@ In our Daily life we are ordering food/grocery items/ clothes on an online platf
 - Step 2: Create Lambda function , DynamoDB and integrated with SNS & SQS ( SNS --> SQS --> Lambda --> DynamoDB)
 - Step 3: Trigger the Lambda function using of SQS 
 - step 4: Create SQS, Lambda function and integrated to S3 ( SNS -->SQS --> Lambda --> S3)
-
 
 #
 
