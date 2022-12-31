@@ -25,7 +25,7 @@ We collate the information in this repository through students submissions , if 
     <td align="center"><a href="/azure/README.md"><img src="images/azure.png" width="70px;" height="75px;" alt="AZURE" /><br /><b>AZURE</b></a></td>
     <td align="center"><a href="/gcp/README.md"><img src="images/googlecloud.png" width="70px;" height="75px;" alt="GCP" /><br /><b>GCP</b></a></td>
 	<td align="center"><a href="/terraform/README.md"><img src="images/terraform.png" width="70px;" height="75px;" alt="Terraform" /><br /><b>Terraform</b></a></td>
-	<td align="center"><a href="/DataAnalytics/README.md"><img src="images/data-analytics.png" width="70px;" height="75px;" alt="DataAnalytics" /><br /><b>DataAnalytics</b></a></td>
+	<td align="center"><a href="/DataAnalytics/readme.md"><img src="images/data-analytics.png" width="70px;" height="75px;" alt="DataAnalytics" /><br /><b>DataAnalytics</b></a></td>
   </tr>
 </table>
 </center>
