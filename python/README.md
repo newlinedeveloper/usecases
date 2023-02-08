@@ -10,4 +10,4 @@ We collate the information in this repository through students submissions , if 
 
 Topic | Type of UseCase | Description | Leader
 :------|:------|:------|:------|
-[UseCase 1](/python/Usecase1/Readme.md) | **Git workflow Repo Scan** | Git,Python | [Ranjini Ganeshan](https://www.linkedin.com/in/ranjinig/)
+[UseCase 1](/python/Usecase1) | **Git workflow Repo Scan** | Git,Python | [Ranjini Ganeshan](https://www.linkedin.com/in/ranjinig/)
