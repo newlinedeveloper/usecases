@@ -26,6 +26,7 @@ We collate the information in this repository through students submissions , if 
     <td align="center"><a href="/gcp/README.md"><img src="images/googlecloud.png" width="70px;" height="75px;" alt="GCP" /><br /><b>GCP</b></a></td>
 	<td align="center"><a href="/terraform/README.md"><img src="images/terraform.png" width="70px;" height="75px;" alt="Terraform" /><br /><b>Terraform</b></a></td>
 	<td align="center"><a href="/DataAnalytics/readme.md"><img src="images/data-analytics.png" width="70px;" height="75px;" alt="DataAnalytics" /><br /><b>DataAnalytics</b></a></td>
+	<td align="center"><a href="/python/README.md"><img src="images/python.png" width="70px;" height="75px;" alt="Python" /><br /><b>Python</b></a></td>
   </tr>
 </table>
 </center>
