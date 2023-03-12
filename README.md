@@ -40,7 +40,7 @@ We collate the information in this repository through students submissions , if 
 <a href="https://linkedin.com/in/vijaystack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cloudnloud" height="30" width="40" /></a>
 
 
-<h3 align="left">Connect with Us to know your talents:</h3>
+<h3 align="left">Connect with Us to know your talents:::</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/cloudnloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cloudnloud" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/company/80359681/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cloudnloud" height="30" width="40" /></a>
